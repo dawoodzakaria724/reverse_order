@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588286089 source:c:\users\dawoo\onedrive\desktop\reverse_order\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+
